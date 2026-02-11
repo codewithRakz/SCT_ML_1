@@ -68,7 +68,7 @@ scikit-learn
 numpy
 
 Step 3: Run the Application
-python -m streamlit run app.py
+python -m streamlit run app.py  ##important
 
 Then open:
 
